@@ -9,7 +9,7 @@ Some design pattern sample in Android.
 <summary>View contents</summary>
 
 * [`Sample Notification in Android`](#Sample Notification in Android)
-
+* [`countOccurrences`](#countoccurrences)
 
 </details>
 
